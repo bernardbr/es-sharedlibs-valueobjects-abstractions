@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# root tools folder
+tools/
+
+# Test reports
+CodeCoverage
+TestResults
